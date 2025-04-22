@@ -1,0 +1,9 @@
+{
+    "name": "crypto-price-api",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+      "ccxt": "^4.1.99"
+    }
+  }
+  

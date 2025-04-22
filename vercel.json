@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "builds": [
+      { "src": "api/price/[pair].js", "use": "@vercel/node" }
+    ]
+  }
+  
